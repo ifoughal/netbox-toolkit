@@ -1,0 +1,11 @@
+interface {interface}
+  {enabled}
+  description {description}
+  bundle id {bundle_id} mode active
+  mtu {mtu}
+  service-policy input {svp_in}
+  service-policy output {svp_out}
+  lacp period {lacp_period}
+  load-interval {load_interval}
+  carrier-delay up {delay_up} down {delay_down}
+!

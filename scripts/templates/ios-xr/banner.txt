@@ -1,0 +1,4 @@
+banner exec @
+*** $(hostname) [tty $(line)] *** @
+banner login {banner_login}
+!
